@@ -154,7 +154,7 @@ yarn add leaflet react-leaflet
 yarn add @types/react-leaflet -D
 ```
 
-### :octocat: How to deploy React App to GitHub Pages
+### :octocat: How to deploy React App to [GitHub Pages](https://pages.github.com/)
 
 :black_medium_small_square: **_install [GitHub Pages](https://www.npmjs.com/package/gh-pages) package as a dev-dependency:_**  
 
@@ -179,6 +179,12 @@ npm install gh-pages --save-dev
 ```
 
 ![package.json](./readme/screenshot_web_03_package_json.png)
+
+:black_medium_small_square: **_deploy it to GitHub Pages:_**  
+
+```
+npm run deploy
+```
 
 ## :blue_book: **_references:_**  
 
