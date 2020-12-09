@@ -28,7 +28,7 @@ A platform to find orphanages to visit built with **[HTML](https://whatwg.org/)*
 
 #### [Next Level Week #3](https://nextlevelweek.com/)
 
-<!-- *OmniStack* with [Diego Fernandes](https://github.com/diego3g)   -->
+*OmniStack* with [Diego Fernandes](https://github.com/diego3g)  
 
 ![nlw3](./readme/nlw3.jpg)
 <br>
@@ -190,4 +190,4 @@ npm run deploy
 
 ## :blue_book: **_references:_**  
 
-[How to deploy React App to GitHub Pages](https://create-react-app.dev/docs/deployment/#github-pages)  
+[How to deploy React App to GitHub Pages](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)  
