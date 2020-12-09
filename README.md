@@ -28,7 +28,7 @@ A platform to find orphanages to visit built with **[HTML](https://whatwg.org/)*
 
 #### [Next Level Week #3](https://nextlevelweek.com/)
 
-*OmniStack* with [Diego Fernandes](https://github.com/diego3g)  
+<!-- *OmniStack* with [Diego Fernandes](https://github.com/diego3g)   -->
 
 ![nlw3](./readme/nlw3.jpg)
 <br>
