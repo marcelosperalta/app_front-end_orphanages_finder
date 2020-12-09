@@ -190,4 +190,4 @@ npm run deploy
 
 ## :blue_book: **_references:_**  
 
-[How to deploy React App to GitHub Pages](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)  
+[How to deploy React App to GitHub Pages](https://create-react-app.dev/docs/deployment/#step-1-deploying-your-react-project-to-vercel)  
