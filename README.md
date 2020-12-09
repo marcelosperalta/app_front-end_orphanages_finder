@@ -162,11 +162,13 @@ yarn add @types/react-leaflet -D
 npm install gh-pages --save-dev
 ```
 
-:black_medium_small_square: **_add properties to ```package.json``` file.:_**  
+:black_medium_small_square: **_add to ```package.json``` file at the top level the property below:_**  
 
 ```
-"homepage": "http://yuribenjamin.github.io/app_front-end_orphanages_finder"
+"homepage": "http://marcelosperalta.github.io/app_front-end_orphanages_finder",
 ```
+
+![package.json](./readme/screenshot_web_03_package_json.png)
 
 :black_medium_small_square: **_in the existing scripts property we to need to add ```predeploy``` and ```deploy```:_**  
 
@@ -178,7 +180,7 @@ npm install gh-pages --save-dev
 }
 ```
 
-![package.json](./readme/screenshot_web_03_package_json.png)
+![package.json](./readme/screenshot_web_04_package_json.png)
 
 :black_medium_small_square: **_deploy it to GitHub Pages:_**  
 
