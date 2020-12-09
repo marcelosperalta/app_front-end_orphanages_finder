@@ -180,62 +180,6 @@ npm install gh-pages --save-dev
 
 ![package.json](./readme/screenshot_web_03_package_json.png)
 
-### :full_moon: front-end ("web" folder)
-
-:black_medium_small_square: **_connecting the front-end to the back-end using [axios](https://github.com/axios/axios):_**  
-
-_note:_ alternatively you can use the [```fetch()```](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) method  
-
-_install axios from web folder:_  
-
-```
-yarn add axios
-yarn add @types/axios -D
-```
-
-inside the path ```...\web\src```, create ```services``` folder with ```api.ts``` file inside  
-
 ## :blue_book: **_references:_**  
 
 [How to deploy React App to GitHub Pages](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)  
-
-
-<!-- ## :dvd: **_install package.json dependencies:_**
-
-on bash / terminal  
-```
-npm install
-```
-<br>
-
-## :runner: **_run the project:_**  
-
-on bash / terminal  
-```
-npm run dev
-```
-
-on browser  
-
-http://127.0.0.1:5500/
-
-or
-
-http://localhost:5500/
-
-<br>
-
-## :green_book: **_concepts:_**  
-
-[Responsive web design (Mobile First...)](https://en.wikipedia.org/wiki/Responsive_web_design)  
-
-[What is Mobile First Design? Why It’s Important & How To Make It?](https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00)  
-
-[Template Engine](https://en.wikipedia.org/wiki/Template_processor)  
-<br>
-
-## :blue_book: **_references:_**  
-
-[How to Write an Awesome GitHub README](https://healeycodes.com/github/beginners/tutorial/productivity/2019/04/14/writing-an-awesome-github-readme.html)  
-
-[EMOJI CHEAT SHEET](https://www.webfx.com/tools/emoji-cheat-sheet/)   -->
