@@ -101,14 +101,6 @@ yarn start
 
 ## :computer: How to deploy React App to [Vercel](https://vercel.com/)
 
-:black_medium_small_square: **_create a ```build``` folder for the project:_**  
-
-```
-yarn build
-```
-
-:rotating_light: push the ```build``` folder to your GitHub repository  
-
 :black_medium_small_square: **_import the GitHub project to [Vercel](https://vercel.com):_**  
 
 ![vercel](./readme/screenshot_web_03_vercel_import.png)
