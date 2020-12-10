@@ -1,4 +1,6 @@
-:link: https://app-front-end-orphanages-finder.vercel.app/
+:link: _front-end version:_ https://app-front-end-orphanages-finder.vercel.app/
+
+:link: _fullstack version:_ https://github.com/marcelosperalta/app_fullstack_orphanages_finder
 
 # "Happy" - Orphanage finder  
 
@@ -21,8 +23,6 @@ A platform to find orphanages to visit built with **[HTML](https://whatwg.org/)*
 </div>
 
 <br>
-
-###### _fullstack version:_ https://github.com/marcelosperalta/app_fullstack_orphanages_finder
 
 ## :mortar_board: **_bootcamp:_**  
 
