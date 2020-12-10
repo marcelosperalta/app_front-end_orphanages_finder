@@ -4,8 +4,6 @@
 
 A platform to find orphanages to visit built with **[HTML](https://whatwg.org/)**, **[CSS](https://www.w3.org/Style/CSS/)**, **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**, **[TypeScript](https://www.typescriptlang.org/)**, **[React](https://reactjs.org/)**, and **[Node.js](https://nodejs.org/)**.  
 
-###### _fullstack version:_ https://github.com/marcelosperalta/app_fullstack_orphanages_finder
-
 <br>
 
 <div align="center">
@@ -21,6 +19,10 @@ A platform to find orphanages to visit built with **[HTML](https://whatwg.org/)*
     &nbsp;
     <img src="./readme/logo_nodejs.png" width="70">
 </div>
+
+<br>
+
+###### _fullstack version:_ https://github.com/marcelosperalta/app_fullstack_orphanages_finder
 
 <br>
 
