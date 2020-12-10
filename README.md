@@ -1,4 +1,4 @@
-https://app-front-end-orphanages-finder.vercel.app/
+:link: https://app-front-end-orphanages-finder.vercel.app/
 
 # "Happy" - Orphanage finder  
 
@@ -113,20 +113,10 @@ yarn build
 
 ![vercel](./readme/screenshot_web_03_vercel_import.png)
 
-:black_medium_small_square: **_in the existing scripts property we to need to add ```predeploy``` and ```deploy```:_**  
+![vercel](./readme/screenshot_web_04_vercel_import.png)
 
-```
-"scripts": {
-    //...
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-}
-```
+![vercel](./readme/screenshot_web_05_vercel_import.png)
 
-![package.json](./readme/screenshot_web_04_package_json.png)
+![vercel](./readme/screenshot_web_06_vercel_import.png)
 
-:black_medium_small_square: **_deploy it to GitHub Pages:_**  
-
-```
-npm run deploy
-```
+![vercel](./readme/screenshot_web_07_vercel_import.png)
