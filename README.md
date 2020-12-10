@@ -1,3 +1,5 @@
+https://app-front-end-orphanages-finder.vercel.app/
+
 # "Happy" - Orphanage finder  
 
 A platform to find orphanages to visit built with **[HTML](https://whatwg.org/)**, **[CSS](https://www.w3.org/Style/CSS/)**, **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**, **[TypeScript](https://www.typescriptlang.org/)**, **[React](https://reactjs.org/)**, and **[Node.js](https://nodejs.org/)**.  
@@ -83,30 +85,12 @@ A platform to find orphanages to visit built with **[HTML](https://whatwg.org/)*
 
 [React Hooks](https://reactjs.org/docs/hooks-intro.html)  
 
-## :arrow_forward: **_start:_**  
+## :arrow_forward: **_Run:_**  
 
-### :full_moon: front-end ("web" folder)
-
-:black_medium_small_square: **_creat react project adding typescript from terminal:_**  
+:black_medium_small_square: **_install dependencies from package.json:_**  
 
 ```
-yarn create react-app web --template typescript
-```
-
-or  
-
-```
-npx create-react-app web --template typescript
-```
-
-:black_medium_small_square: **_open the project from terminal:_**  
-
-```
-cd web
-```
-
-```
-code .
+yarn install
 ```
 
 :black_medium_small_square: **_run the project from terminal:_**  
@@ -115,60 +99,19 @@ code .
 yarn start
 ```
 
-or  
+### :octocat: How to deploy React App to [Vercel](https://vercel.com/)
+
+:black_medium_small_square: **_create a ```build``` folder for the project:_**  
 
 ```
-npm start
+yarn build
 ```
 
-:black_medium_small_square: **_install react icons:_**  
+:rotating_light: push the ```build``` folder to your GitHub repository  
 
-```
-yarn add react-icons
-```
+:black_medium_small_square: **_import the GitHub project to [Vercel](https://vercel.com):_**  
 
-or  
-
-```
-npm install react-icons
-```
-
-:black_medium_small_square: **_install react router:_**  
-
-```
-yarn add react-router-dom
-yarn add @types/react-router-dom -D
-```
-
-or  
-
-```
-npm install react-router-dom
-npm install @types/react-router-dom -D
-```
-
-:black_medium_small_square: **_install leaflet and react-leaflet:_**  
-
-```
-yarn add leaflet react-leaflet
-yarn add @types/react-leaflet -D
-```
-
-### :octocat: How to deploy React App to [GitHub Pages](https://pages.github.com/)
-
-:black_medium_small_square: **_install [GitHub Pages](https://www.npmjs.com/package/gh-pages) package as a dev-dependency:_**  
-
-```
-npm install gh-pages --save-dev
-```
-
-:black_medium_small_square: **_add to ```package.json``` file at the top level the property below:_**  
-
-```
-"homepage": "http://marcelosperalta.github.io/app_front-end_orphanages_finder",
-```
-
-![package.json](./readme/screenshot_web_03_package_json.png)
+![vercel](./readme/screenshot_web_03_vercel_import.png)
 
 :black_medium_small_square: **_in the existing scripts property we to need to add ```predeploy``` and ```deploy```:_**  
 
@@ -187,7 +130,3 @@ npm install gh-pages --save-dev
 ```
 npm run deploy
 ```
-
-## :blue_book: **_references:_**  
-
-[How to deploy React App to GitHub Pages](https://create-react-app.dev/docs/deployment/#step-1-deploying-your-react-project-to-vercel)  
