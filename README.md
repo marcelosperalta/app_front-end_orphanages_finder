@@ -99,7 +99,7 @@ yarn install
 yarn start
 ```
 
-### :octocat: How to deploy React App to [Vercel](https://vercel.com/)
+## :computer: How to deploy React App to [Vercel](https://vercel.com/)
 
 :black_medium_small_square: **_create a ```build``` folder for the project:_**  
 
