@@ -24,8 +24,6 @@ A platform to find orphanages to visit built with **[HTML](https://whatwg.org/)*
 
 ###### _fullstack version:_ https://github.com/marcelosperalta/app_fullstack_orphanages_finder
 
-<br>
-
 ## :mortar_board: **_bootcamp:_**  
 
 ### [Rocketseat](https://rocketseat.com.br/)
